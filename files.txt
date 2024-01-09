@@ -1,1 +1,0 @@
-./sources/1.txt ./sources/2.txt ./sources/3.txt
